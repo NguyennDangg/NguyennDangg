@@ -63,6 +63,8 @@ I enjoy:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=A3A3A3&center=true&vCenter=true&width=500&lines=Designing+interfaces+that+breathe%2C+move%2C+and+linger." />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=A3A3A3&center=true&vCenter=true&width=600&lines=Designing+interfaces+that+breathe,+move,+and+linger." />
+</p>
 
 </div>
