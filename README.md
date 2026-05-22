@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=45&duration=2000&pause=700&color=FF3B3B&center=true&vCenter=true&width=700&lines=%3E+NGUYEN+HAI+DANG_;%3E+FRONTEND+DEVELOPER_;%3E+MOTION+DRIVEN+UI_;%3E+BUILDING+ATMOSPHERIC+WEB+EXPERIENCES_" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=45&duration=2000&pause=700&color=FF3B3B&center=true&vCenter=true&width=700&lines=%3E+NGUYEN+HAI+DANG_;" />
 
 </div>
 
