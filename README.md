@@ -57,7 +57,7 @@ I enjoy:
 ## Find me
 
 - Carrd: [nguynhaidang](https://nguynhaidang.carrd.co)
-- Portfolio: [Visit my site](https://portfolio-2-ruddy-psi.vercel.app/)
+- Portfolio: [Visit my site](https://michaelkarik.vercel.app/)
 
 ---
 
