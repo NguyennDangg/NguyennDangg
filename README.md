@@ -67,6 +67,8 @@ I enjoy:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:ff003c&height=120&section=footer" />
 
-<sub>© 2026 · NguyennDangg · built with intention</sub>
+</div>
 
+<div align="center">
+<sub>— <a href="https://github.com/NguyennDangg">NguyennDangg</a></sub>
 </div>
