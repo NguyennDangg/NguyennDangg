@@ -44,8 +44,6 @@ I enjoy:
 > Clear UX with personality  
 > Frontend projects that look intentional
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:ff003c&height=120&section=footer" />
-
 ## Currently
 
 - Refining my frontend skill
@@ -66,5 +64,9 @@ I enjoy:
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=A3A3A3&center=true&vCenter=true&width=600&lines=Designing+interfaces+that+breathe,+move,+and+linger." />
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:ff003c&height=120&section=footer" />
+
+<sub>© 2026 · NguyennDangg · built with intention</sub>
 
 </div>
