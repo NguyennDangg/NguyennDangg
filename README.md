@@ -111,7 +111,7 @@ OBJECTIVE_05  Create memorable user experiences
 ## `> Network`
 
 Portfolio
-→ [View Personnel Record](https://michaelkarik.vercel.app/)
+→ [View Personnel Record](https://maiky.dev/)
 
 Carrd
 → [Access Personal Archive](https://nguynhaidang.carrd.co)
